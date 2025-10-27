@@ -27,7 +27,7 @@ features:
 
 # Development configuration (optional, enabled via environment variable)
 development:
-  enabled: false
+  enabled: true
   version: 2.0.0-beta
   environment: development
   server:
@@ -56,3 +56,5 @@ development:
     slack_webhook: "https://hooks.slack.com/services/XXX"
     discord_webhook: "https://discord.com/api/webhooks/YYY"
     email_alerts: false
+
+
