@@ -1,0 +1,35 @@
+* 536bae4 (HEAD -> main, origin/main) docs: Add changelog
+* d771a70 docs: Add GIT_JOURNEY.md documenting Phase 5
+| * 7b0e56f (feature/another-feature) feat: Add new feature
+|/  
+| * 09ae149 (origin/feature/another-feature) Resolve conflict in scripts/new-feature.js
+|/  
+* 325377c (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 6502c02 feat: Add new feature
+* 6e929d5 docs: Add FAQ section
+* 857c824 Resolve conflict in scripts/new-feature.js
+* 225778d feat: Add new feature
+| * 42d6028 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * a3b92ab feat: Add new feature
+| | * b94b85c (refs/stash) On main: WIP: save changes before cherry-pick
+| |/| 
+|/| | 
+| | * 5a746fa index on main: 626a752 docs: Add FAQ section
+| |/  
+|/|   
+* | 626a752 docs: Add FAQ section
+* | b4eb302 Add checkpoint3 screenshot for Phase 3 merge conflicts
+|/  
+*   46c9974 Resolve all conflicts merging conflict-simulator into main
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 843fe48 Add checkpoint2 screenshot for first merge conflicts
+* |   0b4b229 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | ca8ed25 Added checkpoint1 screenshot
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
